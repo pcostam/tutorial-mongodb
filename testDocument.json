@@ -1,0 +1,12 @@
+person = {
+  _id: "jo",
+  name: "Jo Bloggs",
+  age: 34,
+  address: {
+    street: "123 Fake St",
+    city: "Faketon",
+    state: "MA",
+    zip: &#x201C;12345&#x201D;
+  }
+  books: [ 27464, 747854]
+}  
